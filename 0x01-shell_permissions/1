@@ -1,0 +1,1 @@
+permission releated shell scripts
